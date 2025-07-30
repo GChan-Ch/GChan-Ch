@@ -1,5 +1,5 @@
-## Hi there 👋 , I'm Goldi
-## How to reach me goldifirmansyah10@gmail.com
+Hi there 👋 , I'm Goldi
+How to reach me goldifirmansyah10@gmail.com
 
 <!--
 **GChan-Ch/GChan-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
