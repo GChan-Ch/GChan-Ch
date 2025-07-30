@@ -1,4 +1,4 @@
-- Hi there 👋 , I'm Goldi
+## Hi there 👋 , I'm Goldi
 - How to reach me goldifirmansyah10@gmail.com
 
 <!--
