@@ -1,6 +1,10 @@
 ## Hi there 👋 , I'm Goldi
 - How to reach me goldifirmansyah10@gmail.com
 
+- 🔭 I work on automating infrastructure and deployment
+- 🛠️ Tools I use: Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
+- ☁️ Experienced with AWS and Azure
+- 📈 I love monitoring and improving system reliability
 <!--
 **GChan-Ch/GChan-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
