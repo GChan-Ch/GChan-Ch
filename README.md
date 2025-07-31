@@ -2,7 +2,7 @@
 - How to reach me goldifirmansyah10@gmail.com
 
 - 🔭 I work on automating infrastructure and deployment
-- 🛠️ Tools I use: Docker, Kubernetes, Terraform, Jenkins, GitHub Actions
+- 🛠️ Tools I use: Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Selenium, Sonarqube, Dynatrace, Grafana
 - ☁️ Experienced with AWS and Azure
 - 📈 I love monitoring and improving system reliability
 <!--
