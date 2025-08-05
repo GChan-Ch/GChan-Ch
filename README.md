@@ -1,5 +1,5 @@
 ## Hi there 👋 , I'm Goldi
-[![Linkedin Badge](https://img.shields.io/badge/-Goldi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goldi-firmansyah/)](https://www.linkedin.com/in/goldi-firmansyah/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-Goldi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/goldi-firmansyah/)](https://www.linkedin.com/in/goldi-firmansyah/)
 [![Gmail Badge](https://img.shields.io/badge/-goldifirmansyah10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goldifirmansyah10@gmail.com)](mailto:goldifirmansyah10@gmail.com)
 
 - 🔭 I work on automating infrastructure and deployment
